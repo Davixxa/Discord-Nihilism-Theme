@@ -12,9 +12,9 @@ Forked from [Observer of Time](https://github.com/ObserverOfTime/Discord-Nihilis
 
 ## Latest versions
 
-[![Windows](https://img.shields.io/badge/Windows-3.03.2-orange.svg?style=flat-square)](src/Nihilism-Windows.theme.css)
-[![Web](https://img.shields.io/badge/Web-3.03.2-yellow.svg?style=flat-square)](src/Nihilism-Web.theme.css)
-[![Unix](https://img.shields.io/badge/Unix-3.03.2-yellowgreen.svg?style=flat-square)](src/Nihilism-Unix.theme.css)
+[![Windows](https://img.shields.io/badge/Windows-3.03.3-orange.svg?style=flat-square)](src/Nihilism-Windows.theme.css)
+[![Web](https://img.shields.io/badge/Web-3.03.3-yellow.svg?style=flat-square)](src/Nihilism-Web.theme.css)
+[![Unix](https://img.shields.io/badge/Unix-3.03.3-yellowgreen.svg?style=flat-square)](src/Nihilism-Unix.theme.css)
 
 ## Features
 
@@ -59,11 +59,10 @@ Forked from [Observer of Time](https://github.com/ObserverOfTime/Discord-Nihilis
   - Linux: Follow these [instructions](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)
   - Mac: Unzip and run the [installer](https://github.com/rauenzi/BetterDiscordApp/releases/download/0.2.82/BetterDiscordMacInstaller.zip)
 - Apply the theme
-  - Option 1: [Download](https://betterdiscord.net/ghdl?id=1288) the theme and place it in BetterDiscord's theme folder
+  - Option 1: [Download](https://betterdiscord.net/ghdl?id=1289) the theme and place it in BetterDiscord's theme folder
   - Option 2: Write the following in your custom CSS (autoupdates): `@import url("https://raw.githack.com/ObserverOfTime/Discord-Nihilism-Theme/master/src/Nihilism-Unix.theme.css");`
 
 ## TODO
-- [x] Fix status border in activities
 - [ ] Clean up obsolete code
 - [ ] Unjumble dark elements code
 - [ ] Add more dark elements

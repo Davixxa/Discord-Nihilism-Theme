@@ -1,4 +1,4 @@
-//META{"name":"Nihilism-Windows", "description":"Compact lists. Rounded square avatars and status borders. Bigger emoji. ACTUALLY blocked messages. No titlebar. No unnecessary scrollbars. More dark elements.", "author":"Observer of Time", "version":"3.03.2"}*//
+//META{"name":"Nihilism-Windows", "description":"Compact lists. Rounded square avatars and status borders. Bigger emoji. ACTUALLY blocked messages. No titlebar. No unnecessary scrollbars. More dark elements.", "author":"Observer of Time", "version":"3.03.3"}*//
 
 
 /* ---- Dark Elements ---- */
@@ -205,11 +205,12 @@ div[class*="search-bar"] input {
 /* ---- Rounded Square Avatars and Status Borders ---- */
 div[class*="avatar"],
 div[class*="image-"],
-div[class*="status"],
+div[class*="status"]:not(.member-status),
 .guild-inner,
 .guilds-add,
 .guilds-error,
 .guild-placeholder,
+<<<<<<< HEAD
 .embed-author-icon {
   border-radius: 100% !important;
 }
@@ -416,6 +417,11 @@ div[class*="wrapper-"] > div[class*="content-"] {
 .preview-container {
   position: relative;
   right: 2px !important;
+}
+
+.base-3AoPqv {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
 }
 
 /* ---- PTB & Canary changes ---- */
