@@ -1,29 +1,6 @@
 //META{"name":"Nihilism-Windows", "description":"Compact lists. Rounded square avatars and status borders. Bigger emoji. ACTUALLY blocked messages. No titlebar. No unnecessary scrollbars. More dark elements.", "author":"Observer of Time", "version":"3.03.2"}*//
 
 
-
-/* ---- Compact Member List ---- */
-.channel-members-wrap {
-  min-width: 200px;
-}
-.channel-members {
-  max-width: 200px;
-  margin-top: -15px;
-}
-.channel-members .member {
-  padding: 5px 12px;
-}
-.channel-members h2 {
-  padding: 1px 10px;
-}
-.channel-members .member + h2 {
-  margin-top: 10px;
-}
-.channel-members .member .member-username,
-.channel-members .member .member-activity-text {
-  max-width: 125px;
-}
-
 /* ---- Dark Elements ---- */
 .need-help-modal.deprecated .header,
 .need-help-modal.deprecated .form-inner.loading,
