@@ -1,4 +1,4 @@
-Forked from (https://github.com/ObserverOfTime/Discord-Nihilism-Theme) [Observer of Time]
+Forked from [Observer of Time](https://github.com/ObserverOfTime/Discord-Nihilism-Theme)
 
 
 # Nihilism
