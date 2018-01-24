@@ -1,73 +1,6 @@
 //META{"name":"Nihilism-Windows", "description":"Compact lists. Rounded square avatars and status borders. Bigger emoji. ACTUALLY blocked messages. No titlebar. No unnecessary scrollbars. More dark elements.", "author":"Observer of Time", "version":"3.03.2"}*//
 
-/* ---- Compact Server List ---- */
-.guilds-wrapper {
-  border-right: none;
-  position: relative;
-  margin-top: -10px;
-}
-.guilds-wrapper .guilds .friends-online {
-  display: none;
-}
-.guilds-add {
-  opacity: 0.5;
-  font-size: 22px !important;
-}
-.guilds-wrapper .guild-separator {
-  margin-top: 5px;
-  margin-bottom: 5px;
-  margin-left: -5px;
-  display: none;
-}
-.guilds-wrapper .guild-separator:after {
-  background: transparent;
-}
-.guilds-wrapper .guilds {
-  padding: 18px 20px 85px 18px;
-}
-.guilds-wrapper .guilds .guild .guild-inner {
-  background: #151515 !important;
-  line-height: 35px;
-}
-.guilds-wrapper .guilds .guild .guild-inner a,
-.guilds-wrapper .guilds .guild,
-.guilds-wrapper .guilds .guild .avatar-small {
-  width: 35px;
-  height: 35px;
-}
-.guilds-wrapper .guilds .guild .avatar-small {
-  width: 35px;
-  height: 35px;
-  background-size: 35px 35px;
-}
-.guilds-wrapper .guilds .friends-icon {
-  width: 35px;
-  height: 35px;
-  background-size: 29px 29px;
-  margin-top: 2px;
-}
-.guilds-wrapper .guilds .guild:before,
-.guilds-wrapper .guilds .guild.unread:before,
-.guilds-wrapper .guilds .guild.selected:before {
-  left: -25px;
-  transition: 0.2s ease-in-out all;
-}
-.guilds-wrapper .guilds-error {
-  width: 35px;
-  height: 35px;
-  line-height: 30px;
-}
 
-/* ---- Compact Channel List ---- */
-.channels-3g2vYe {
-  width: 200px;
-}
-.container-iksrDt {
-  width: 190px;
-}
-.accountDetails-15i-_e .username {
-  max-width: 50px;
-}
 
 /* ---- Compact Member List ---- */
 .channel-members-wrap {
@@ -89,26 +22,6 @@
 .channel-members .member .member-username,
 .channel-members .member .member-activity-text {
   max-width: 125px;
-}
-
-/* ---- Bigger Emoji ---- */
-.emoji {
-  width: auto !important;
-  height: auto !important;
-  max-width: 50px !important;
-}
-.reaction .emoji {
-  width: 40px !important;
-  height: auto;
-  margin: 2px 0;
-}
-.embed .emoji {
-  margin: 0 !important;
-}
-
-/* ---- Hide Blocked Messages ---- */
-.message-group-blocked {
-  display: none;
 }
 
 /* ---- Dark Elements ---- */
@@ -321,7 +234,7 @@ div[class*="status"],
 .guilds-error,
 .guild-placeholder,
 .embed-author-icon {
-  border-radius: 25% !important;
+  border-radius: 100% !important;
 }
 div[class*="status"] {
   top: -2px;
