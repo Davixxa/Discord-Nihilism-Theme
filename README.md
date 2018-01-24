@@ -1,3 +1,5 @@
+Forked from (https://github.com/ObserverOfTime/Discord-Nihilism-Theme) [Observer of Time]
+
 
 # Nihilism
 
@@ -6,7 +8,7 @@
 **Designed for use with Discord's dark theme.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](./LICENSE)
-[![Twitter Link](https://img.shields.io/badge/Twitter-@chronobserver-696969.svg?style=flat-square&logo=twitter)](https://twitter.com/chronobserver)
+[![Twitter Link](https://img.shields.io/badge/Twitter-@davixxayt-696969.svg?style=flat-square&logo=twitter)](https://twitter.com/davixxayt)
 
 ## Latest versions
 
